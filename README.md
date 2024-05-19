@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi I'm danbee ! &fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi_I_am_danbee!&fontSize=90)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
