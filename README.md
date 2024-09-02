@@ -1,9 +1,9 @@
 <div align="center">
-  <img src = "https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=hi_danbeing~👋&fontSize=50&width=100%"/>
+  <img src = "https://capsule-render.vercel.app/api?type=waving&color=A94438&height=250&section=header&text=hidanbeing&fontSize=50&width=100%"/>
 </div>
 <div align="center">
-  <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hidanbeing&show_icons=true&include_all_commits=true&&hide_border=true&&theme=swift" alt="SOKURI's github stats" /></a>
-  <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidanbeing&layout=compact&&hide_border=true&&theme=swift" /></a> 
+  <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hidanbeing&show_icons=true&include_all_commits=true&&hide_border=true&&theme=shadow_red" alt="SOKURI's github stats" /></a>
+  <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidanbeing&layout=compact&&hide_border=true&&theme=shadow_red" /></a> 
 </div>
 
 <!--내용 부분-->
