@@ -6,6 +6,14 @@
   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidanbeing&layout=compact&&hide_border=true&&theme=shadow_red" /></a> 
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hidanbeing"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
